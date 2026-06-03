@@ -8,7 +8,7 @@
 
 ---
 
-### 🌸 Welcome to my cozy data corner!
+### 🌸 Welcome to my data corner!
 This repository is my digital scrapbook where I am learning how to slice, dice, and make sense of numbers. I am following along with the iconic **Data Analysis with Python: Zero to Pandas** course co-hosted by **freeCodeCamp** and **Jovian**! ☕✨
 
 Currently moving from *"What is a library?"* to *"Oh look, a beautiful dataframe!"* ---
